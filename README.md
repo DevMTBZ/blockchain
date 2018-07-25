@@ -23,19 +23,7 @@
 - [Games](#games)
 - [Future plans](#future-plans)
 
----
-To propose a project - open issue/PR or contact me via [Telegram](https://t.me/tmaniac)
 
-Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
-You can also support the list directly:
-
-**Bitcoin:** *1MjC5Htqzd2uJx6eFSuBCh1HT122Gesfpd*
-
-**Ethereum:** *0x78a2C634b844b23e22795EAb1Bd344629f4983c2*
-
-**Monero:** *4B8cnjTaXnADZMJhNVkZtoHNVqBE1Pjavag6Mp54HPmp1FUUUnFteLRbdAMvKDzCoeBE3vY81BZzVNoGBaaPfRhw6jiS3Z1*
-
----
 
 ### Platforms
 
